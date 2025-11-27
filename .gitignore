@@ -1,0 +1,5 @@
+.env
+venv/
+__pycache__/
+*.png
+paper_portfolio.db
